@@ -12,8 +12,8 @@ from youtubesearchpython.__future__ import VideosSearch
 from yt_dlp import YoutubeDL
 
 import config
-from YukkiMusic.utils.database import is_on_off
-from YukkiMusic.utils.formatters import time_to_seconds
+from AviaxMusic.utils.database import is_on_off
+from AviaxMusic.utils.formatters import time_to_seconds
 
 
 def cookies():
